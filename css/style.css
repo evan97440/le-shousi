@@ -1,0 +1,175 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+header{
+    background-color: #D35656;
+    width:auto;
+    height: 70px;
+    margin-top: -20px;
+}
+#logo{
+    height:50px;
+    margin-left: 600px;
+    background-image: url(../images/NIKKEI+SUSHI+LOGO+SUSHI+ROLL+\(1\).png);
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+#nom{
+    text-align: center;
+    margin-top: -60px;
+}
+nav{
+    width: auto;
+    height: 40px;
+    background-color: #BCBCBC;
+    margin-top: -20px;
+}
+a{
+    color: black;
+    text-decoration:none
+}
+a:hover{
+    color: #D35656;
+}
+#acceuil{
+    margin-top: 0px;
+margin-left: 400px;
+}
+#menu{
+    margin-top: -45px;
+margin-left: 700px;
+}
+#commande{
+    margin-top: -50px;
+margin-left: 1000px;
+}
+#bateau{
+    background-image: url(../images/bateau.png);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 750px;
+}
+
+
+#sushi-1{
+    width: auto;
+    height: 650px;
+    margin-top: -140px;
+    background-color: #232323;
+}
+#e1{
+    background-image: url(../images/e1.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 375px;
+    margin-left: 300px;
+    margin-top: 120px;
+}
+#texte1{
+    color: white;
+    margin-top: -340px;
+    width: 600px;
+    margin-left: 880px;
+}
+
+
+#sushi-2{
+    width: auto;
+    height: 800px;
+    background-color: #131313;
+}
+#texte2{
+    margin-left: 200px;
+    width: 1100px;
+    color: white;
+}
+#e2{
+    width: auto;
+    height: 561px;
+    background-image: url(../images/786.jpg);
+    background-repeat: no-repeat;
+    margin-left: 150px;
+}
+
+
+#sushi-3{
+    width: auto;
+    height: 650px;
+    margin-top: 0px;
+    background-color: #902E2E;
+}
+#e3{
+    background-image: url(../images/karaage-restaurant-illimite-tokyo-japon-all-you-can-eat.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 375px;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+#texte3{
+    color: white;
+    margin-top: 300px;
+    width: 600px;
+    margin-left: 150px;
+}
+#footer2{
+    background-color:white;
+    width: auto;
+    height: 500px;
+}
+#footer1{
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 200px;
+}
+#gps{
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.adress{
+    margin-top: -25px;
+    margin-left: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#horaire{
+    margin-left: 1200px;
+    margin-top: -70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#maps{
+    width: auto;
+    height:273px ;
+    margin-left: 300px;
+    background-repeat: no-repeat;   
+}
+   
+img:hover{
+    opacity: 0.8;
+    color: #D35656;
+}
+footer{
+    background-color: #494949;
+    width: auto;
+    height: 100px;
+}
+#mention{
+    margin-top: -10px;
+    margin-left: 50px;
+}
+#condi{
+    margin-top: -45px;
+    margin-left: 320px;
+}
+#politique{
+    margin-top: -45px;
+    margin-left: 800px;
+}
+#contact{
+    margin-top: -45px;
+    margin-left: 1200px; 
+}
+.w{
+    color:white;
+}
